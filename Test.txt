@@ -1,3 +1,1 @@
-This is a test.
-This is an original text.
-This is a text from the other end. (Test Successful)
+TEST
