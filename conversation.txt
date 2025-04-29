@@ -300,3 +300,4 @@ GONZAGA: hehe
 PRIMO: hi
 PAGAL: hello
 PRIMO: Po?
+BONDAD: hello
