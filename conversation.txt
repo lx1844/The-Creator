@@ -225,3 +225,4 @@ CHIP: hi
 PAGAL: Po?
 GONZAGA: hehe
 PAGAL: hahaha
+PRIMO: hello
