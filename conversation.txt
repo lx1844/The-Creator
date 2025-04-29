@@ -252,3 +252,4 @@ PAGAL: oum
 PRIMO: hello
 BONDAD: hello
 GONZAGA: Po?
+PRIMO: Po?
