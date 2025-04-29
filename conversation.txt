@@ -240,3 +240,4 @@ PRIMO: hello
 PRIMO: oum
 CHIP: jo
 CHIP: jo
+CHIP: mo
