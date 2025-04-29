@@ -277,3 +277,4 @@ BONDAD: hi
 BONDAD: hello
 BONDAD: oum
 PAGAL: Po?
+PRIMO: hahaha
