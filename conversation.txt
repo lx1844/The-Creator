@@ -229,3 +229,4 @@ PRIMO: hello
 BONDAD: hello
 PAGAL: hi
 BONDAD: oum
+GONZAGA: hi
