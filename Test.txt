@@ -1,3 +1,2 @@
 This is a test.
-
-HELLO_WORLD()
+This is an original text.
