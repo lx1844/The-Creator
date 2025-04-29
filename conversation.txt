@@ -17,7 +17,8 @@ GONZAGA: 
 PAGAL: 
 PRIMO: 
 BONDAD: 
-BONDAD: 
+BONDAD: 
+
 PRIMO: 
 GONZAGA: 
 BONDAD: 
