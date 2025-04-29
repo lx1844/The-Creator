@@ -256,3 +256,4 @@ PRIMO: Po?
 PRIMO: hehe
 BONDAD: Po?
 PAGAL: oum
+BONDAD: hello
