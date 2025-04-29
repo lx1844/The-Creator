@@ -228,3 +228,4 @@ PAGAL: hahaha
 PRIMO: hello
 BONDAD: hello
 PAGAL: hi
+BONDAD: oum
