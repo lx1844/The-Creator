@@ -257,3 +257,4 @@ PRIMO: hehe
 BONDAD: Po?
 PAGAL: oum
 BONDAD: hello
+BONDAD: hahaha
