@@ -227,3 +227,4 @@ GONZAGA: hehe
 PAGAL: hahaha
 PRIMO: hello
 BONDAD: hello
+PAGAL: hi
