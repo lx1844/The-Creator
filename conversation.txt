@@ -298,3 +298,4 @@ PRIMO: Po?
 BONDAD: hahaha
 GONZAGA: hehe
 PRIMO: hi
+PAGAL: hello
