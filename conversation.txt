@@ -226,3 +226,4 @@ PAGAL: Po?
 GONZAGA: hehe
 PAGAL: hahaha
 PRIMO: hello
+BONDAD: hello
