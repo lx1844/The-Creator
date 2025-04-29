@@ -1,28 +1,10 @@
-
-Lex: hello
-Lex: heyyyy
-Lex: hello
-Lex: heyyyy
-Lex: hello
-Lex: heyyyy
-Lex: hello
-Lex: heyyyy
-Lex: hello
-Lex: heyyyy
-Lex: hello
-Lex: heyyyy
-Lex: hello
-Lex: heyyyy
-Lex: a
-Lex: b
-Lex: c
-Lex: d
-Lex: e
-Lex: f
-Lex: g
-Lex: HEY
-Lex: HAHAHAHA
-
-	-- Lex left the conversation --
-
-Lex: Hello again
+LEX: 01
+BOT: 02
+LEX: 03
+BOT: 04
+BOT: 05
+Lex: 06
+Lex: 07
+BOT: 08
+LEX: 09
+BOT: 10
