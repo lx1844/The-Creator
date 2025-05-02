@@ -9,3 +9,4 @@ Notice: Lexa entered the conversation.
 Lexa: Hey
 Lexa: Ano na?
 Notice: Lexa entered the conversation.
+Lexa: Hey
