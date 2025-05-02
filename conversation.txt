@@ -18,3 +18,4 @@ Crush: tama man
 LEXA: HEY
 Crush: hello
 LEXA: Bad connection here
+Crush: yeah icr
