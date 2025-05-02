@@ -19,3 +19,4 @@ Lexa: HEY
 [37mLexa entered the conversation.
 [37mLexa entered the conversation.
 [37mLexa entered the conversation.
+Lexa: hey
