@@ -20,3 +20,4 @@ Crush: hello
 LEXA: Bad connection here
 Crush: yeah icr
 [37mLEXA [31mentered the conversation.[0m
+LEXA: see?
