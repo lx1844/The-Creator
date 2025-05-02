@@ -17,3 +17,4 @@ Crush: tama man
 [37mLEXA [31mentered the conversation.[0m
 LEXA: HEY
 Crush: hello
+LEXA: Bad connection here
