@@ -27,3 +27,4 @@ LEXA: Hahahaha
 LEXA:  
 [37mLEXA [31mleft the conversation.[0m
 [37mLEXA [31mentered the conversation.[0m
+LEXA: PROBLEM SOLVED: MULTIPLE USERS CONNECTED FROM DIFFERENT NETWORK WORKS.
