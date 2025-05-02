@@ -1,3 +1,4 @@
 SENDER: MESSAGE HERE
 [37mLexa entered the conversation.
 Lexa: hey
+[37mLexa [31mentered the conversation.[0m
