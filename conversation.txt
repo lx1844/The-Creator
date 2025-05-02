@@ -13,3 +13,4 @@ Lexa: Hello
 Notice: Phone entered the conversation.
 Phone: hello
 Phone: how are you?
+[37mLexa entered the conversation.[0m
