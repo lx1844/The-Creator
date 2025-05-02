@@ -6,3 +6,4 @@ Lexa: GFGFG
 [37mCrush entered the conversation.
 [37mCrush entered the conversation.
 Crush: g
+Crush: no
