@@ -17,3 +17,4 @@ Phone: how are you?
 Phone: hey
 Lexa: HEY
 [37mLexa entered the conversation.
+[37mLexa entered the conversation.
