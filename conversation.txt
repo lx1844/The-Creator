@@ -23,3 +23,4 @@ ROMERO: Hello
 LEXA: Helloooo
 LEXA: Hahahaha
 [37mBONDAD left the conversation.[0m
+[37mBONDAD [31mleft the conversation.[0m
