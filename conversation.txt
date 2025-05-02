@@ -5,3 +5,4 @@ SENDER: MESSAGE HERE
 Lexa: hey
 -- Lexa entered the conversation --
 Lexa: Hey
+Notice: Lexa entered the conversation.
