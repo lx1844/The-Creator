@@ -7,3 +7,4 @@ Lexa: hey
 Phone: hey
 Notice: Lexa entered the conversation.
 Notice: Lexa entered the conversation.
+Lexa: Hello
