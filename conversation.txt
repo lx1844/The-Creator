@@ -25,3 +25,4 @@ Lexa: hey
 [31mLexa [31mentered the conversation.[0m
 [31mLexa entered the conversation.[0m
 [31mLexa entered the conversation.[0m
+[37mLexa entered the conversation.[0m
