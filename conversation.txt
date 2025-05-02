@@ -5,3 +5,4 @@ Notice: Lexa entered the conversation.
 Notice: Phone entered the conversation.
 Lexa: hey
 Phone: hey
+Notice: Lexa entered the conversation.
