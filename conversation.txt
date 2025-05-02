@@ -313,3 +313,4 @@ BONDAD: hi
 PAGAL: Po?
 BONDAD: hehe
 CHIP: hey
+	-- CHIP entered the conversation --
