@@ -11,3 +11,4 @@ Lexa: Ano na?
 Notice: Lexa entered the conversation.
 Lexa: Hey
 Lexa: 
+Lexa: 
