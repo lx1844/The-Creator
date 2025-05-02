@@ -1,1 +1,2 @@
 SENDER: MESSAGE HERE
+[37mLexa entered the conversation.
