@@ -2,3 +2,4 @@ SENDER: MESSAGE HERE
 SENDER: MESSAGE HERE
 SENDER: MESSAGE HERE
 Notice: Lexa entered the conversation.
+Notice: Phone entered the conversation.
